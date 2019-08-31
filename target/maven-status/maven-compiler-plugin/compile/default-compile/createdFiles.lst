@@ -1,0 +1,13 @@
+com\pa\qa\pages\ShopPage.class
+com\pa\qa\reportlistener\Log.class
+com\pa\qa\util\ExcelReader.class
+com\pa\qa\base\TestBase.class
+com\pa\qa\pages\SingleItemAddPage.class
+com\pa\qa\pages\MyAccountPageRegisterAndLogin.class
+com\pa\qa\pages\CartPage.class
+com\pa\qa\pages\HomePage.class
+com\pa\qa\reportlistener\CaptureScreenShot.class
+com\pa\qa\util\TestUtil.class
+com\pa\qa\util\Constants.class
+com\pa\qa\reportlistener\WebEventListener.class
+com\pa\qa\pages\MyAccountPage.class
